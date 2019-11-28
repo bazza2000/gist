@@ -166,6 +166,3 @@ if __name__ == "__main__":
         # Update initial GIST count for next loop
         initial_num_gists = current_num_gists
     time.sleep(poll_delay)
-
-
-

@@ -7,7 +7,7 @@
 # Parameters: None
 #
 # Description: 
-# Script is used to test the gist_poll.py script
+# Unit Tests for gist_poll.py script
 #
 # Author:  Barry Jarman
 # Date:    26 Nov 2019
